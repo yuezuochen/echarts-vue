@@ -1,6 +1,5 @@
-# echarts_vue
 
-## Project setup
+### echarts_vue
 ```
 npm install
 ```
