@@ -19,5 +19,5 @@ npm run build
 https://maigewanwan.cn/
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 后端代码仓库
+https://github.com/yuezuochen/echarts-node.js
