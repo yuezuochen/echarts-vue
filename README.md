@@ -14,9 +14,9 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+### 项目演示
 ```
-npm run lint
+https://maigewanwan.cn/
 ```
 
 ### Customize configuration
